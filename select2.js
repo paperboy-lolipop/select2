@@ -98,7 +98,7 @@ the specific language governing permissions and limitations under the Apache Lic
     },
     MEASURE_SCROLLBAR_TEMPLATE = "<div class='select2-measure-scrollbar'></div>",
 
-// rails assets compressするとWindowsXp8において文字列をパースできなくなるため
+    // rails assets compressするとWindowsXp8において文字列をパースできなくなるため
     // 互換分解する場合は必要になりますので以下のコメントアウトを削除してください
     DIACRITICS = {}
 
